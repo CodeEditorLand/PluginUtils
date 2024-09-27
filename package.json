@@ -1,15 +1,15 @@
 {
-	"dependencies": {},
+	"name": "@swc/plugin-utils",
 	"description": "Utilities for plugins for swc",
+	"main": "index.js",
+	"scripts": {
+		"build": "tsc",
+		"gen": "npx ts-node ./scripts/gen.ts"
+	},
+	"dependencies": {},
 	"devDependencies": {
 		"@swc/core": "1.7.28",
 		"@types/node": "22.7.3",
 		"tslib": "2.7.0"
-	},
-	"main": "index.js",
-	"name": "@swc/plugin-utils",
-	"scripts": {
-		"build": "tsc",
-		"gen": "npx ts-node ./scripts/gen.ts"
 	}
 }

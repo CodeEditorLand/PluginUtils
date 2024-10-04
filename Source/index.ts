@@ -1,4 +1,3 @@
-import Visitor from './visitor';
-
+import Visitor from "./visitor";
 
 export { Visitor };

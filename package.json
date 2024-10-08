@@ -3,7 +3,7 @@
 	"description": "Utilities for plugins for swc",
 	"devDependencies": {
 		"@swc/core": "1.7.28",
-		"@types/node": "22.7.4",
+		"@types/node": "22.7.5",
 		"tslib": "2.7.0"
 	},
 	"main": "index.js",

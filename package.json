@@ -2,7 +2,7 @@
 	"dependencies": {},
 	"description": "Utilities for plugins for swc",
 	"devDependencies": {
-		"@swc/core": "1.7.26",
+		"@swc/core": "1.7.35",
 		"@types/node": "22.7.5",
 		"tslib": "2.7.0"
 	},

@@ -2,9 +2,9 @@
 	"dependencies": {},
 	"description": "Utilities for plugins for swc",
 	"devDependencies": {
-		"@swc/core": "1.7.35",
+		"@swc/core": "1.7.36",
 		"@types/node": "22.7.5",
-		"tslib": "2.7.0"
+		"tslib": "2.8.0"
 	},
 	"main": "index.js",
 	"name": "@swc/plugin-utils",
